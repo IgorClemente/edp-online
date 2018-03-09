@@ -103,7 +103,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D01F91111F8B03FA006EAC9B /* Screens */ = {
+		D01F91111F8B03FA006EAC9B /* Views */ = {
 			isa = PBXGroup;
 			children = (
 				D01FBF931F81B2E400908931 /* PrizesControllerView.swift */,
@@ -111,7 +111,7 @@
 				D0B73B2A1FB67203007ACC40 /* LoginControllerView.swift */,
 				D0F8282A1F814B3A00AB9688 /* RankingControllerView.swift */,
 			);
-			name = Screens;
+			name = Views;
 			sourceTree = "<group>";
 		};
 		D01FBF901F81B1E200908931 /* PrizesControllerView */ = {
@@ -125,7 +125,7 @@
 		D0B1874A1F79C3EF00DC1D5B /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				D01F91111F8B03FA006EAC9B /* Screens */,
+				D01F91111F8B03FA006EAC9B /* Views */,
 				D0BFBF071F756A92009B1F11 /* ViewController.swift */,
 				D00EC05C1F7BCF9000198884 /* ControllerSideMenu.swift */,
 				D0BFBF051F756A92009B1F11 /* AppDelegate.swift */,
@@ -146,15 +146,15 @@
 			name = View;
 			sourceTree = "<group>";
 		};
-		D0B1874C1F79C41700DC1D5B /* Imagem */ = {
+		D0B1874C1F79C41700DC1D5B /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				D0BFBF0C1F756A92009B1F11 /* Assets.xcassets */,
 			);
-			name = Imagem;
+			name = Resources;
 			sourceTree = "<group>";
 		};
-		D0B1874D1F79C42400DC1D5B /* Suporte */ = {
+		D0B1874D1F79C42400DC1D5B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				D0BFBF031F756A92009B1F11 /* Products */,
@@ -170,7 +170,7 @@
 				D0BEAD4C1FF735B6001419B4 /* TreeDetailViewCell.swift */,
 				D01F91141F8BA4F1006EAC9B /* AppSingleton.swift */,
 			);
-			name = Suporte;
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		D0B1874E1F79C43A00DC1D5B /* RankingControllerView */ = {
@@ -210,8 +210,8 @@
 		D0BFBF041F756A92009B1F11 /* EdpOnline */ = {
 			isa = PBXGroup;
 			children = (
-				D0B1874D1F79C42400DC1D5B /* Suporte */,
-				D0B1874C1F79C41700DC1D5B /* Imagem */,
+				D0B1874D1F79C42400DC1D5B /* Supporting Files */,
+				D0B1874C1F79C41700DC1D5B /* Resources */,
 				D0B1874A1F79C3EF00DC1D5B /* Controller */,
 				D0B1874B1F79C40C00DC1D5B /* View */,
 				D0E003041FE8237100B541BA /* Model */,
@@ -532,7 +532,7 @@
 				INFOPLIST_FILE = EdpOnline/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = edponlinehouse90;
+				PRODUCT_BUNDLE_IDENTIFIER = edponlineproduction01;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
@@ -552,7 +552,7 @@
 				INFOPLIST_FILE = EdpOnline/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = edponlinehouse90;
+				PRODUCT_BUNDLE_IDENTIFIER = edponlineproduction01;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;

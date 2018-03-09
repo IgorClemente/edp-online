@@ -36,7 +36,7 @@ class ViewController: UIViewController,UIImagePickerControllerDelegate,
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(true)
-        guard let progress  = self.uiProgressBarUpload else {
+        guard let progress = self.uiProgressBarUpload else {
               return
         }
         
@@ -244,6 +244,8 @@ class ViewController: UIViewController,UIImagePickerControllerDelegate,
             return
         }
         
+        UIApplication.shared.isNetworkActivityIndicatorVisible = true
+        
         let formatter = DateFormatter()
         formatter.dateFormat = "yyyy:MM:dd'T'HH:mm:ss'Z'"
         
@@ -289,7 +291,8 @@ class ViewController: UIViewController,UIImagePickerControllerDelegate,
               upload.responseJSON { response in
                  progressBar.isHidden = true
                  progressBar.setProgress(0.0, animated: false)
-                    
+                 UIApplication.shared.isNetworkActivityIndicatorVisible = false
+                
                  // MARK: Notification End Progress - BackgroundMode
                  DispatchQueue.main.async {
                    if UIApplication.shared.applicationState == .background {
@@ -346,7 +349,7 @@ extension ViewController : CLLocationManagerDelegate {
         switch CLLocationManager.authorizationStatus() {
           case .authorizedAlways, .authorizedWhenInUse:
             locationManagerUser.delegate        = self
-            locationManagerUser.desiredAccuracy = kCLLocationAccuracyKilometer
+            locationManagerUser.desiredAccuracy = kCLLocationAccuracyBest
             locationManagerUser.startUpdatingLocation()
           case .notDetermined:
             requestLocationPermission()
@@ -456,3 +459,4 @@ extension ViewController : UITableViewDelegate, UITableViewDataSource {
         self.dismiss(animated: true, completion: nil)
     }
 }
+
