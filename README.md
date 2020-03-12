@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="EdpOnline" src="wallpapers/edp_wallpaper.jpg" width="600px" />
+    <img alt="EdpOnline" src="wallpapers/edp_wallpaper.jpg" width="400px" />
 </h1>
 
 <h3 align="center">
