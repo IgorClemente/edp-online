@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="EdpOnline" src="wallpapers/edp_wallpaper.png" width="1000px" />
+    <img alt="EdpOnline" src="wallpapers/edp_wallpaper.jpg" width="1000px" />
 </h1>
 
 IOS Application EDP ONLINE
