@@ -28,17 +28,17 @@
 
 <h2 align="center">
 
-![screenshotedp01](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp01.png)
-![screenshotedp02](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp02.png)
-![screenshotedp03](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp03.png)
-![screenshotedp04](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp04.png)
-![screenshotedp05](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp05.png)
-![screenshotedp06](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp06.png)
-![screenshotedp07](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp07.png)
-![screenshotedp08](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp08.png)
-![screenshotedp09](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp09.png)
-![screenshotedp10](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp10.png)
-![screenshotedp11](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp11.png)
-![screenshotedp12](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp12.png)
+![screenshotedp01](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp01.png =250x250)
+![screenshotedp02](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp02.png =250x250)
+![screenshotedp03](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp03.png =250x250)
+![screenshotedp04](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp04.png =250x250)
+![screenshotedp05](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp05.png =250x250)
+![screenshotedp06](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp06.png =250x250)
+![screenshotedp07](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp07.png =250x250)
+![screenshotedp08](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp08.png =250x250)
+![screenshotedp09](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp09.png =250x250)
+![screenshotedp10](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp10.png =250x250)
+![screenshotedp11](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp11.png =250x250)
+![screenshotedp12](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp12.png =250x250)
 
 </h2>
