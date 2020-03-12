@@ -1,17 +1,20 @@
-# EDP-ONLINE
+<h1 align="center">
+    <img alt="EdpOnline" src="wallpapers/edp_wallpaper.png" width="1000px" />
+</h1>
+
 IOS Application EDP ONLINE
 
 Screenshots:
 
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp01.png)
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp02.png)
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp03.png)
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp04.png)
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp05.png)
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp06.png)
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp07.png)
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp08.png)
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp09.png)
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp10.png)
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp11.png)
-![alt text](https://github.com/IgorClemente/EDP-ONLINE/blob/master/Screenshots/screenshotedp12.png)
+![screenshotedp01](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp01.png)
+![screenshotedp02](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp02.png)
+![screenshotedp03](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp03.png)
+![screenshotedp04](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp04.png)
+![screenshotedp05](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp05.png)
+![screenshotedp06](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp06.png)
+![screenshotedp07](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp07.png)
+![screenshotedp08](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp08.png)
+![screenshotedp09](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp09.png)
+![screenshotedp10](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp10.png)
+![screenshotedp11](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp11.png)
+![screenshotedp12](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp12.png)
