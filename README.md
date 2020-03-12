@@ -1,10 +1,12 @@
 <h1 align="center">
-    <img alt="EdpOnline" src="wallpapers/edp_wallpaper.jpg" width="800px" />
+    <img alt="EdpOnline" src="wallpapers/edp_wallpaper.jpg" width="600px" />
 </h1>
 
 IOS Application EDP ONLINE
 
 Screenshots:
+
+<h2 align="center">
 
 ![screenshotedp01](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp01.png)
 ![screenshotedp02](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp02.png)
@@ -18,3 +20,5 @@ Screenshots:
 ![screenshotedp10](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp10.png)
 ![screenshotedp11](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp11.png)
 ![screenshotedp12](https://github.com/IgorClemente/EDP-ONLINE/blob/master/screenshots/screenshotedp12.png)
+
+</h2>
