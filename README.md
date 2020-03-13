@@ -36,6 +36,12 @@
 
 Aplicação desenvolvida para o hackathon proposto pela empresa de energia EDP - Energias de Portugal, durante a mentoria do hackathon nos foi proposto desenvolver uma solução para melhor atender o cliente. Trabalhamos em cima dos dados dispostos, e identificamos a necessidade de prever queda de árvores sob a fiação. O aplicativo permite conectar os clientes, que alimentam o sistema identificando árvores que possivelmente podem cair. Esses clientes são pontuados, e podem trocar os pontos por prêmios ou batimento da fatura mensal.
 
+## :computer: Tecnologias e Ferramentas
+
+- [Swift](https://www.apple.com/br/swift/)
+- [Alamofire](https://cocoapods.org/pods/Alamofire)
+- [Cocoapods](https://cocoapods.org)
+
 ## :iphone: Screenshot
 
 <h2 align="center">
